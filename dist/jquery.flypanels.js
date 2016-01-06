@@ -1,6 +1,6 @@
-/*! flypanels - v0.14.0 - 2015-10-29
+/*! flypanels - v0.14.0 - 2016-01-06
 * https://github.com/SubZane/flyPanels
-* Copyright (c) 2015 Andreas Norman; Licensed MIT */
+* Copyright (c) 2016 Andreas Norman; Licensed MIT */
 (function ($) {
 	// Change this to your plugin name.
 	var pluginName = 'flyPanels';

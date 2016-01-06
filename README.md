@@ -1,4 +1,4 @@
-flyPanels v0.14
+flyPanels v1.0
 =======
 
 flyPanels - responsive off canvas menu panels
@@ -257,6 +257,9 @@ jQuery(document).ready(function($) {
 ```
 
 ##changelog
+####1.0.0
+* All jQuery version will reside at version 1.x and the new vanilla javascript version will reside at  version 2 and above.
+
 ####0.14.0
 * FIX: Fixed sidepanels scrolling issue with iOS9 that can occur depending on your meta viewport settings
 
